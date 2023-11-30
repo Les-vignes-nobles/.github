@@ -1,0 +1,18 @@
+repo_name: Les-vignes-nobles/.github
+report_id: 19ca02bfecaf9cd32996801f9b7ccf62
+repo_type: Public
+timestamp: '2023-11-30T20:47:57+00:00'
+requested_by: SamuelCarrico
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
